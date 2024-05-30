@@ -1,4 +1,4 @@
-import profile from "../assets/images/profile.png";
+import profile from "../assets/images/profile-image.png";
 import learning from "../assets/images/learning.png";
 import exercise from "../assets/images/exercise.png";
 
