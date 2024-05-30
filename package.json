@@ -1,7 +1,7 @@
 {
   "name": "-rn-assignment3-11318179",
   "version": "1.0.0",
-  "main": "expo/App.js",
+  "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
